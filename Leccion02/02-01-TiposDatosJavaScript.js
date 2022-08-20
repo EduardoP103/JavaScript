@@ -53,3 +53,9 @@ console.log(typeof x);
 // null = ausencia de valor 
 var y = null;
 console.log(y);
+
+var autos = [
+    'Rojo', 'Verde', 'Azul'
+];
+console.log(autos);
+console.log(typeof autos)
